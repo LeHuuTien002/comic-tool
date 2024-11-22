@@ -10,7 +10,7 @@ manga_folder = os.path.join(base_folder, manga_name)  # Đường dẫn đến t
 
 # URL gốc cho các chương truyện
 base_url = "https://nettruyenviet.com/truyen-tranh/tham-tu-conan/chuong-"
-chapters = [7]  # Danh sách số chương
+chapters = [1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20]  # Danh sách số chương
 
 # Tạo thư mục gốc và thư mục truyện
 os.makedirs(manga_folder, exist_ok=True)
